@@ -1,11 +1,3 @@
-# CSE 220 Programming Project #3
-# Hassan Raja
-# haraja
-# 112249751
-
-#################### DO NOT CREATE A .data SECTION ####################
-#################### DO NOT CREATE A .data SECTION ####################
-#################### DO NOT CREATE A .data SECTION ####################
 
 .text
 initialize:
